@@ -3,7 +3,6 @@
 [Live Demo 🚀](https://taskflow-drab.vercel.app/)
 
 TaskFlow is a clean, user-friendly web application that helps you manage your daily tasks with ease.
-
 Whether you're organizing work, personal projects, or your everyday to-dos, TaskFlow provides a minimal and effective interface to help boost your productivity.
 
 ## 🔑 Features
